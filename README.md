@@ -1,8 +1,15 @@
 # tiaomasaomiao-templates
 
-Public CSV templates for [条码喵喵](https://github.com/koo8chun/tiaomasaomiao-uniapp) (private app repo).
+Public files for [条码扫描生成宝](https://github.com/koo8chun/tiaomasaomiao-uniapp) (CSV templates + App Store legal pages).
 
-## Files
+## App Store URLs
+
+After GitHub Pages is on (`main` / root):
+
+- Privacy: https://koo8chun.github.io/tiaomasaomiao-templates/privacy.html
+- Support: https://koo8chun.github.io/tiaomasaomiao-templates/support.html
+
+## CSV templates
 
 | File | Use |
 |------|-----|
@@ -10,7 +17,7 @@ Public CSV templates for [条码喵喵](https://github.com/koo8chun/tiaomasaomia
 | `book_stock_sample.csv` | Sample data with optional `remark` column (import uses barcode + book_qty only) |
 | `import_codes_template.csv` | Barcode generation — one barcode per line |
 
-## Raw URLs (main branch)
+Raw URLs (main branch):
 
 ```
 https://raw.githubusercontent.com/koo8chun/tiaomasaomiao-templates/main/book_import_template.csv
