@@ -1,10 +1,8 @@
 # tiaomasaomiao-templates
 
-Public files for [条码扫描生成宝](https://github.com/koo8chun/tiaomasaomiao-uniapp) (CSV templates + App Store legal pages).
+Public files for **条码喵喵 / Barcode Miao** (CSV templates + App Store legal pages).
 
 ## App Store URLs
-
-After GitHub Pages is on (`main` / root):
 
 - Privacy: https://koo8chun.github.io/tiaomasaomiao-templates/privacy.html
 - Support: https://koo8chun.github.io/tiaomasaomiao-templates/support.html
